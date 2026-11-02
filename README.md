@@ -1104,6 +1104,7 @@ _Related: [Games](#games)_
 - [Onyx Community Edition](https://onyx.app) - Chat UI that works with any LLM. It comes loaded with advanced features like agents, web search, RAG, MCP, deep research, Connectors to 40+ knowledge sources, and more. ([Source Code](https://github.com/onyx-dot-app/onyx)) `MIT` `Docker/K8S`
 - [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
 - [Vane](https://github.com/ItzCrazyKns/Vane) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
+- [Vool](https://github.com/Parad0x-Labs/vool) - Local-first personal AI agent with persistent memory and tool permissions; runs Ollama or your own API key, and every action claim is backed by a signed, offline-verifiable receipt. ([Source Code](https://github.com/Parad0x-Labs/vool)) `MIT` `Python/Docker`
 
 
 ### Groupware
